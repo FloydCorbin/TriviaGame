@@ -1,0 +1,20 @@
+html{
+    background-image: url(assets/images/moonlightbkgrnd.jpg), url(assets/images/runningbkgrnd.jpg) url(assets/images/WesAndersonCollectionTheGrandBudapestHotel_p_p107.jpg);
+    background-position: top left, inherit;
+    background-repeat: no-repeat, repeat;
+}
+
+#questions{
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#score{
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.jumbotron{
+    margin-left:auto;
+    margin-right: auto;
+}
